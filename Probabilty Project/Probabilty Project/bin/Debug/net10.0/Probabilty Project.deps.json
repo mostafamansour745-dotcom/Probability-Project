@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Probabilty Project/1.0.0": {
+        "runtime": {
+          "Probabilty Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Probabilty Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
